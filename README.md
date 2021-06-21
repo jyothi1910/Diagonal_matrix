@@ -1,7 +1,7 @@
 # Diagonal_matrix
 It gives the difference between diagonals
 
-##output1
+## output1
 ```
 right Diagonal: 217
 left Diagonal: 261
